@@ -1,7 +1,1 @@
-print ( "Hello World" )
-name = input ( " please tell me your name." )
-print ( "nice to meet you", name )
-myname = None
-print ( " my name is", myname )
-
 
